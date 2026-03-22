@@ -1,1 +1,1 @@
-# yelp_reviews_analysis-spark-project
+# yelp-reviews-analysis-spark-project
