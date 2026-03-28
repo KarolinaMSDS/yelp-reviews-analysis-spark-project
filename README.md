@@ -9,6 +9,8 @@ Built a scalable sentiment analysis pipeline using PySpark and NLP techniques to
 ![Task](https://img.shields.io/badge/Task-Sentiment%20Analysis-lightgrey)
 ![Scale](https://img.shields.io/badge/Scale-Millions%20of%20Reviews-brightgreen)
 
+# 🍽️ Yelp Big Data Sentiment Analysis
+
 **Impact & Business Applications**
 
 This project demonstrates how combining big data processing (Spark) with natural language processing (NLP) can transform large volumes of unstructured customer feedback into actionable insights at scale. By reducing processing time from over an hour to seconds, the pipeline enables near real-time analysis of millions of reviews, making it practical for operational and strategic use.
